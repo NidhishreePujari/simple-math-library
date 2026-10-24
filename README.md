@@ -10,6 +10,7 @@ A simple reusable JavaScript library for basic mathematical operations.
 - Multiplication
 - Division
 - Division-by-zero validation
+- Square calculation
 
 ## Usage
 
@@ -27,7 +28,7 @@ SimpleMath.add(10, 5); // Returns 15
 
 ## Version
 
-1.0.0
+1.1.0
 
 ## License
 
